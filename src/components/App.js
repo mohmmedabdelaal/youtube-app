@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './app.css';
 import SearchBar from './SearchBar';
 import youtube from '../apis/youtube';
 import VideoList from './VideoList';
